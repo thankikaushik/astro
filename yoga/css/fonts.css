@@ -4,7 +4,6 @@
 	Replace your Fonts as necessary
 -----------------------------------------------------------------*/
 
-
 body,
 small,
 .sub-menu-container .menu-item > .menu-link,
@@ -24,8 +23,9 @@ small,
 .before-heading,
 .wedding-head .first-name span,
 .wedding-head .last-name span,
-.font-secondary { font-family: 'Roboto', sans-serif !important; }
-
+.font-secondary {
+	font-family: "Roboto", sans-serif !important;
+}
 
 h1,
 h2,
@@ -47,5 +47,6 @@ label,
 .widget-filter-links li a,
 .nav-tree li a,
 .wedding-head,
-.font-primary { font-family: 'Sansita', sans-serif !important; }
-
+.font-primary {
+	font-family: "Sansita", sans-serif !important;
+}
